@@ -6,13 +6,12 @@ I am interested in machine learning, data analysis and digital signal processing
 
 ## Main Areas
 
-- Machine Learning
-- Data Analysis
-- Digital Signal Processing
-
+- **Machine Learning**
+- **Data Analysis**
+- **Digital Signal Processing**
 ## Tools
 
-Python · MATLAB · scikit-learn · Pandas · NumPy · VHDL · Verilog
+**Python · MATLAB · scikit-learn · Pandas · NumPy · VHDL · Verilog**
 
 ## Contact
 
