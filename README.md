@@ -1,16 +1,20 @@
-## Hi there 👋
+# Abdulhalim Kiraz
 
-<!--
-**kirazhalim/kirazhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Electrical and Electronics Engineering student at Boğaziçi University.
 
-Here are some ideas to get you started:
+I am interested in machine learning, data analysis and digital signal processing. I work on projects that combine engineering fundamentals with data-driven and signal-based methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Areas
+
+- Machine Learning
+- Data Analysis
+- Digital Signal Processing
+
+## Tools
+
+Python · MATLAB · scikit-learn · Pandas · NumPy · VHDL · Verilog
+
+## Contact
+
+LinkedIn: linkedin.com/in/halimkiraz  
+Email: kirazhalim@hotmail.com
